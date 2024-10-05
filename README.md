@@ -1,5 +1,4 @@
 # dewiiiiiiiiii
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -14,13 +13,11 @@
 			<td align="center">Kode Lemari</td>
 			<td align="center">Nomor Inventaris</td>
 			<td align="center">Nama Inventaris</td>
-		</tr>
 		<tr>
 			<td align="center">1.</td>
 			<td>101</td>
 			<TD>Biodata</TD>
 			<td>Biodata Mahasiswa Angkatan 2009</td>
-		</tr>
 		<tr>
 			<td align="center">2.</td>
 			<td>101</td>
