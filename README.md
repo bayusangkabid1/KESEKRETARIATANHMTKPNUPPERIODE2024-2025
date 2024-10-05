@@ -23,49 +23,37 @@
 			<td>101</td>
 			<TD>Biodata</TD>
 			<td>Biodata Mahasiswa Angkatan 2010</td>	
-		</tr>
 		<tr>
 			<td align="center">3.</td>
 			<td>101</td>
 			<TD>Biodata</TD>
 			<td>Biodata Mahasiswa Angkatan 2011</td>	
-		</tr>
 		<tr>
 			<td align="center">4.</td>
 			<td>101</td>
 			<TD>Biodata</TD>
 			<td>Biodata Mahasiswa Angkatan 2012</td>	
-		</tr>
-		<tr>
-			<td align="center">5.</td>
-			<td>101</td>
-			<TD>Biodata</TD>
-			<td>Biodata Mahasiswa Angkatan 2012</td>		
-		</tr>
+		
 		<tr>
 						<td align="center">6.</td>
 			<td>101</td>
 			<TD>Biodata</TD>
 			<td>Biodata Mahasiswa Angkatan 2012</td>	
-		</tr>
 		<tr>
 						<td align="center">7.</td>
 			<td>101</td>
 			<TD>Biodata</TD>
 			<td>Biodata Mahasiswa Angkatan 2012</td>	
-		</tr>
 		<TR>
 						<td align="center">8.</td>
 			<td>101</td>
 			<TD>Biodata</TD>
 			<td>Biodata Mahasiswa Angkatan 2012</td>	
-		</TR>
 		<tr>
 						<td align="center">9.</td>
 			<td>101</td>
 			<TD>Biodata</TD>
 			<td>Biodata Mahasiswa Angkatan 2012</td>	
-		</tr>
 		<tr>
 						<td align="center">10.</td>
 			<td>101</td>
